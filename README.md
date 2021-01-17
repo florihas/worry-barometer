@@ -1,2 +1,2 @@
-# worry-barometer
+# What the Swiss Are Concerned About
 Visualizations ([animated line chart](https://github.com/florihas/worry-barometer/blob/main/line.mp4) and [bar chart race](https://github.com/florihas/worry-barometer/blob/main/bar.mp4)) with [R](https://github.com/florihas/worry-barometer/blob/main/worry_barometer.R) showing what the Swiss are concerned about over the years using [data](https://github.com/florihas/worry-barometer/blob/main/sorgenbarometer_1988-2020.xlsx) from the [CS Worry Barometer by gfs.bern](https://credit-suisse.com/media/assets/corporate/docs/about-us/responsibility/worry-barometer/schlussbericht-credit-suisse-sorgenbarometer-2020.pdf)
